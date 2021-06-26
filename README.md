@@ -1,2 +1,1 @@
-# Solaris.exe
-Solaris.exe virus
+#Solaris.exe virus
